@@ -1,1 +1,2 @@
-this is from dup2
+this is from dup2Old FD = 3
+this is from dup2this is from dup2this is from dup2
